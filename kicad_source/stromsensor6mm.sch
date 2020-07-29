@@ -340,12 +340,12 @@ Wire Wire Line
 Wire Wire Line
 	3900 4000 3900 4050
 $Comp
-L devices:R_0603 R1
+L devices:R_0603 R10
 U 1 1 5F22A062
 P 3500 2750
-F 0 "R1" V 3304 2750 50  0000 C CNN
-F 1 "5 mOhm" V 3395 2750 50  0000 C CNN
-F 2 "resistors:R_0603" H 3500 2600 50  0001 C CNN
+F 0 "R10" V 3304 2750 50  0000 C CNN
+F 1 "BR3FB5L00" V 3395 2750 50  0000 C CNN
+F 2 "resistors:BR3" H 3500 2600 50  0001 C CNN
 F 3 "" H 3500 2750 50  0000 C CNN
 	1    3500 2750
 	0    1    1    0   
@@ -404,14 +404,14 @@ Wire Wire Line
 Wire Wire Line
 	3950 3900 3800 3900
 Wire Wire Line
-	3800 3900 3800 2750
+	3800 3900 3800 3050
 Connection ~ 3800 2750
 Wire Wire Line
 	3800 2750 3600 2750
 Wire Wire Line
 	3950 3500 3900 3500
 Wire Wire Line
-	3150 3500 3150 2750
+	3150 3500 3150 3050
 Connection ~ 3150 2750
 Wire Wire Line
 	3150 2750 3400 2750
@@ -536,5 +536,26 @@ Wire Wire Line
 Wire Wire Line
 	3550 4850 3550 4900
 Text Notes 3000 2400 0    50   ~ 0
-5 mOhm for measurements \n-16.384A to +16.384A
+5 mOhm for measurements \n-16.384A to +16.384A\n\nplace second resistor (R20)\n5 mOhm for measurements \n-32.768A to +32.768A
+$Comp
+L devices:R_0603 R20
+U 1 1 5F21ED20
+P 3500 3050
+F 0 "R20" V 3304 3050 50  0000 C CNN
+F 1 "BR3FB5L00" V 3395 3050 50  0000 C CNN
+F 2 "resistors:BR3" H 3500 2900 50  0001 C CNN
+F 3 "" H 3500 3050 50  0000 C CNN
+	1    3500 3050
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3600 3050 3800 3050
+Connection ~ 3800 3050
+Wire Wire Line
+	3800 3050 3800 2750
+Wire Wire Line
+	3400 3050 3150 3050
+Connection ~ 3150 3050
+Wire Wire Line
+	3150 3050 3150 2750
 $EndSCHEMATC
