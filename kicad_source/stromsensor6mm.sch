@@ -52,7 +52,7 @@ U 1 1 5F20D446
 P 6600 5000
 F 0 "S1" H 6600 5575 50  0000 C CNN
 F 1 "SW_DIP_x8" H 6600 5484 50  0000 C CNN
-F 2 "mechanical-switches:dip_8-300" H 6550 5000 50  0001 C CNN
+F 2 "mechanical-switches:WE_416131160808" H 6550 5000 50  0001 C CNN
 F 3 "http://www.ctscorp.com/components/Datasheets/206-208.pdf" H 6600 5483 50  0001 C CNN
 	1    6600 5000
 	1    0    0    -1  
