@@ -1,232 +1,162 @@
-51974652222948
-mechanical-switches
-ALPS_EC11B
+36207519900627
+labels
+4-Layer_1
+4 Layer Label
+Label
+0
+0
+0
+labels
+4-Layer_1_Mask
+4 Layer Label
+Label
+0
+0
+0
+labels
+4-Layer_2
+4 Layer Label
+Label
+0
+0
+0
+labels
+4-Layer_3
+4 Layer Label
+Label
+0
+0
+0
+labels
+4-Layer_4
+4 Layer Label
+Label
+0
+0
+0
+labels
+4-Layer_4_Mask
+4 Layer Label
+Label
+0
+0
+0
+labels
+107-systems_logo
 
 
 0
-7
-6
-mechanical-switches
-ALPS_EC11E
+0
+0
+labels
+107-systems_logo_big
 
 
 0
-7
-6
-mechanical-switches
-ALPS_SKRH
+0
+0
+labels
+Bot
+Label Bottom
+Label Bot Bottom
+0
+0
+0
+labels
+Bot_Mask
+Label Bottom
+Label Bot Bottom
+0
+0
+0
+labels
+Top
+Top Label
+Label Top
+0
+0
+0
+labels
+Top_Mask
+Top Label
+Label Top
+0
+0
+0
+labels
+Urschl2016
+Urschl 2016 Label
+Label
+0
+0
+0
+labels
+bUFFR
 
 
 0
-8
-6
-mechanical-switches
-BOURNS_PEC11S-929K-S0015
+0
+0
+labels
+bUFFR_Mask
 
 
 0
-11
-5
-mechanical-switches
-CK_PTS647
+0
+0
+labels
+generationmake_logo
 
 
 0
-4
-4
-mechanical-switches
-PCB_PUSH
-PCB pushbutton, Tyco FSM6x6 series
-pushbutton
 0
-4
-4
-mechanical-switches
-WE_450404015514
+0
+labels
+generationmake_small_silk
 
 
 0
-7
-4
-mechanical-switches
-WE_416131160808
-WS-DISV Small Compact SMT Flat Actuator with Top Tape 1.27 mm 8 pos.
-WS-DISV Small Compact SMT Flat Actuator with Top Tape 1.27 mm 8 pos.
 0
-16
-16
-mechanical-switches
-WE_4312x6xxx7x6
+0
+labels
+generationmake_small_solder
 
 
 0
-4
-4
-mechanical-switches
-WE_434121050816
-WS-TASV SMT Tact Switch 6.0x3.5 mm
-WS-TASV SMT Tact Switch 6.0x3.5 mm
 0
-2
-2
-mechanical-switches
-WE_434351045816
-WS-TASU SMT Tact Switch 4.7x3.5 mm side push
-WS-TASU SMT Tact Switch 4.7x3.5 mm side push
 0
-4
-4
-mechanical-switches
-WE_430181038816
+labels
+jecc_logo
+Jecc Logo klein
+Jecc logo
+0
+0
+0
+labels
+jecc_logo_7.2x2.2
+Label
+jecc Logo
+0
+0
+0
+labels
+jecc_logo_7.2x2.2_Mask
+Label
+jecc Logo
+0
+0
+0
+labels
+snowfox_logo
 
 
 0
-4
-4
-mechanical-switches
-WE_430182050816
+0
+0
+labels
+snowfox_qrcode_logo
 
 
 0
-4
-4
-mechanical-switches
-WE_430182080816
-
-
 0
-4
-4
-mechanical-switches
-WE_430186043716
-
-
 0
-4
-4
-mechanical-switches
-Wuerth_WS-SLTV
-Würth WS-SLTV Switch
-würth switch
-0
-3
-3
-mechanical-switches
-dip_1-300
-Dip switch, DIL2 x 0,3"
-DIP
-0
-2
-2
-mechanical-switches
-dip_2-300
-Dip switch, DIL4 x 0,3"
-DIP
-0
-4
-4
-mechanical-switches
-dip_3-300
-Dip switch, DIL6 x 0,3"
-DIP
-0
-6
-6
-mechanical-switches
-dip_4-300
-Dip switch, DIL8 x 0,3"
-DIP
-0
-8
-8
-mechanical-switches
-dip_5-300
-Dip switch, DIL10 x 0,3"
-DIP
-0
-10
-10
-mechanical-switches
-dip_6-300
-Dip switch, DIL12 x 0,3"
-DIP
-0
-12
-12
-mechanical-switches
-dip_7-300
-Dip switch, DIL14 x 0,3"
-DIP
-0
-14
-14
-mechanical-switches
-dip_8-300
-Dip switch, DIL16 x 0,3"
-DIP
-0
-16
-16
-mechanical-switches
-dip_9-300
-Dip switch, DIL18 x 0,3"
-DIP
-0
-18
-18
-mechanical-switches
-dip_10-300
-Dip switch, DIL20 x 0,3"
-DIP
-0
-20
-20
-mechanical-switches
-dip_12-300
-Dip switch, DIL24 x 0,3"
-DIP
-0
-24
-24
-mechanical-switches
-smd_push
-SMD Pushbutton
-
-0
-2
-2
-mechanical-switches
-smd_push2
-SMD Pushbutton 2
-
-0
-4
-4
-mechanical-switches
-smd_push3
-SMD Pushbutton 3
-FSM4JSMA 
-0
-4
-4
-mechanical-switches
-switch_100sp5
-E-Switch 100SP5
-
-0
-3
-3
-mechanical-switches
-switch_mfp116dg-ra
-Knitter MFP 116 DG-RA
-
-0
-5
-3
-mechanical-switches
-switch_mmp122-r
-Knitter MMP122-R
-
-0
-3
-3
